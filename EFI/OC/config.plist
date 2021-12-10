@@ -466,12 +466,6 @@
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
-				<key>#csr-active-config (SIP enabled)</key>
-				<data>AAAAAA==</data>
-				<key>#csr-active-config (macOS 10.13)</key>
-				<data>/wMAAA==</data>
-				<key>#csr-active-config (macOS 10.14/10.15)</key>
-				<data>/wcAAA==</data>
 				<key>#csr-active-config (macOS 11)</key>
 				<data>ZwgAAA==</data>
 				<key>#csr-active-config (macOS 12)</key>
@@ -481,7 +475,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 agdpmod=pikera alcid=1</string>
+				<string>-v keepsyms=1 debug=0x100 agdpmod=pikera igfxfw=2 igfxonln=1 alcid=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
