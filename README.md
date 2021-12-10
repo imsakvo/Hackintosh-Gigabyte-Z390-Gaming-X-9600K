@@ -18,8 +18,9 @@
   * OS type: Windows 8.1/10 WHQL
   * DVMT Pre-Allocated: 64MB
 ## 说明
-- 安装镜像为MacOS BigSur 11.6 未测试其他版本
+- 安装镜像为macOS BigSur 11.6
+- macOS Monterey 12.1可正常使用
 - config.plist删除三码
 - 仅使用主板自带HDMI接口连接主板，无独立显卡
-- 开机后屏幕有短暂黑屏且屏幕睡眠后需重新插拔HDMI线
+- 开机后屏幕有短暂黑屏且屏幕睡眠后需重新插拔HDMI线（开机黑屏已修复）
 - 仅供交流，本机使用正常，出现问题责任自负
